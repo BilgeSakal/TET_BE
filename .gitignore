@@ -5,6 +5,7 @@ tmp/
 .metadata
 .classpath
 .project
+*.class
 *.tmp
 *.bak
 *.swp
@@ -12,5 +13,4 @@ tmp/
 local.properties
 .loadpath
 .factorypath
-/src/test/
 .DS_Store
